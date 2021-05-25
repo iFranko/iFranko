@@ -1,4 +1,4 @@
-## Hi my name Frank Kufer
+## Hi My Name is Frank Kufer
 I am a software developer student at Mohawk college and I am currently looking for co-op/intern jobs 
 to help me build and sharp my software/programming skills in work environment.
 
