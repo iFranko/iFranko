@@ -1,6 +1,7 @@
 ## Hi My Name is Frank Kufer
-I am a software developer student at Mohawk College and I am currently looking for co-op/intern jobs 
-to help me build and sharpen my software/programming skills in a work environment.
+Hi, my name is Frank Kufer and I am a Computer System Technology/Software developer student at Mohawk College in my third year. 
+I found my passion and love for this field after one year of taking an Electrical Engineering course and decided to learn more about programming. 
+Currently, I am looking to land a co-op job position to help me build and sharpen my software/programming skills in a work environment. 
 
 :mailbox: Email me @
 
