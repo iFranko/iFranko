@@ -1,10 +1,5 @@
 ## Hi My Name is Frank Kufer
 
-Hi, my name is Frank Kufer and I am a third year software developer student at Mohawk College. 
-Prior to this, I was enrolled in an Electrical engineering program. While taking various courses,
-I found my passion and had immense interest in the different language and coding classes. 
-This led me to enroll in the Computer Systems Technology program. 
-I am currently looking to land a co-op position to help me build and sharpen my software/programming skills in a work environment. 
 
 :mailbox: Email me @
 
