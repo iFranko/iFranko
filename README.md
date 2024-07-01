@@ -1,7 +1,7 @@
 ## Hi My Name is Frank Kufer
 
 
-:mailbox: Email me @
+:mailbox: Email me @ frankoemmanuel.fe@gmail.com.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Frank-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frank-kufer-1085a2206)
 [![Mail Badge](https://img.shields.io/badge/-Frankkufer-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:frankoemmanuel.fe@gmail.com)
